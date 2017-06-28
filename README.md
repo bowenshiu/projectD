@@ -1,5 +1,2 @@
-water
-# projectD
-corn
-banana
 
+# projectD
